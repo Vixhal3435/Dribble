@@ -283,13 +283,15 @@ signin.html
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-05-20 160457.png>)
 
-![alt text](<Screenshot 2025-05-20 160414.png>) 
+![alt text](<Screenshot 2025-05-20 160311-1.png>)
 
-![alt text](<Screenshot 2025-05-20 160328.png>)
+![alt text](<Screenshot 2025-05-20 160328-1.png>)
 
-![alt text](<Screenshot 2025-05-20 160311.png>)
+![alt text](<Screenshot 2025-05-20 160414-1.png>)
+
+![alt text](<Screenshot 2025-05-20 160457-1.png>)
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
